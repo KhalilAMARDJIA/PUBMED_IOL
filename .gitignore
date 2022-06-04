@@ -1,10 +1,6 @@
-__pycache__
-
-pubmed_raw_data.csv
-
-# exclude everything
 saved_csv/*
 plots/*
-# exception to the rule
+__pycache__
+pubmed_raw_data.csv
 !saved_csv/.gitkeep
 !plots/.gitkeep
