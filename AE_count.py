@@ -32,6 +32,7 @@ for complication in complications_db['complications']:
             except:
                 pass
 
+
 for col in complications_matrix.columns:
     complications_matrix.loc[complications_matrix[col] > 0, col] = 1
 
