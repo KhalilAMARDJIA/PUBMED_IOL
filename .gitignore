@@ -1,6 +1,6 @@
 saved_csv/*
 plots/*
 __pycache__
-pubmed_raw_data.csv
 !saved_csv/.gitkeep
 !plots/.gitkeep
+pubmed_raw_data.csv
