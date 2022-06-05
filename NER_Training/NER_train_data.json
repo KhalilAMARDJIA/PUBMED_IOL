@@ -1,0 +1,1960 @@
+[
+    [
+        "Radial keratotomy was a popular surgical procedure used to treat myopia.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Patients who underwent radial keratotomy several years ago, are currently reporting to the ophthalmologist due to worsening of vision associated with age-related cataracts.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In this case report we present a case of a 60-year-old woman who underwent radial keratotomy with 16 incisions in the right eye and 12 incisions in the left eye.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The patient reported to an ophthalmologist due to a deterioration of vision caused by a cataract.",
+        {
+            "entities": [
+                [
+                    52,
+                    75,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "We described, in detail, the difficulties encountered during the diagnostic procedures, differences in the calculation of intraocular lens, and intraoperative difficulties as compared to patients who had not undergone radial keratotomy.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We also present the obtained postoperative results.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Surgical outcomes of toric intraocular lens (IOL) implantation for 8 years after surgery were analyzed.",
+        {
+            "entities": [
+                [
+                    21,
+                    49,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Data were retrospectively collected in 176 eyes of 176 patients before and 1 month, 1, 3, 5, and",
+        {
+            "entities": [
+                [
+                    39,
+                    63,
+                    "SAMPLE"
+                ]
+            ]
+        }
+    ],
+    [
+        "8 years after phacoemulsification and implantation of a toric IOL.",
+        {
+            "entities": [
+                [
+                    56,
+                    65,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Preoperative corneal and postoperative manifest astigmatism was analyzed by converting to power vector notations; horizontal/vertical (J",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The purpose of this study was to report 3 cases of a single-piece, acrylic, foldable, modified C loop posterior chamber intraocular lens (PCIOL) dislocated into the vitreous cavity after Descemet stripping automated endothelial keratoplasty (DSAEK).",
+        {
+            "entities": [
+                [
+                    53,
+                    144,
+                    "DEVICE"
+                ],
+                [
+                    145,
+                    155,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We describe the clinical course and management of the 3 cases in which a previously implanted foldable, single-piece, acrylic posterior chamber intraocular lens with modified C loops dislocated into the vitreous in association with DSAEK.",
+        {
+            "entities": [
+                [
+                    232,
+                    237,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Surgical management consisted of pars plana vitrectomy in each case with either PCIOL repositioning (2 cases) or PCIOL exchange (1 case) and with different fixation methods, combined with repeated DSAEK in 1 case with previous primary graft failure.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In 2 cases where the cornea cleared after the DSAEK, the cornea kept its clarity and the PCIOL remained stable.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In the third case in which the PCIOL exchange was combined with DSAEK, the cornea only partially cleared up, both the PCIOL and the state of the eye remained stable.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "PCIOL dislocation is a possible and notable complication that requires attention while performing DSAEK on pseudophakic eyes.",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Not only plate-haptic silicone but also acrylic, single-piece PCIOLs with modified C loops may dislocate into the vitreous in association with DSAEK in cases with compromised capsular or zonular integrity.",
+        {
+            "entities": [
+                [
+                    95,
+                    104,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Opacification through calcification of hydrophilic acrylic intraocular lenses (IOL) is a severe complication after cataract surgery.",
+        {
+            "entities": [
+                [
+                    22,
+                    83,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Causing symptoms that range from glare through to severe vision loss, the only effective therapy is explantation of the opacified IOL so far.",
+        {
+            "entities": [
+                [
+                    33,
+                    38,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    50,
+                    68,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Although IOL calcification is a well-described phenomenon, its pathogenesis is not fully understood yet.",
+        {
+            "entities": [
+                [
+                    9,
+                    26,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The purpose of the current study was to develop a laboratory model to replicate IOL calcification.",
+        {
+            "entities": [
+                [
+                    80,
+                    97,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Calcification could be reproduced using a horizontal electrophoresis and aqueous solutions of calcium chloride and disodium hydrogen phosphate.",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The analysis of the in vitro calcified IOLs was performed using light microscopy, Alizarin Red and Von Kossa staining, scanning electron microscopy, energy dispersive x-ray spectroscopy and electron crystallography using transmission electron microscopy and electron diffraction.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The presented laboratory model could be used to identify hydrophilic IOLs that are at risk to develop calcification and to assess the influence of associated risk factors.",
+        {
+            "entities": [
+                [
+                    102,
+                    115,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "In addition, it can serve as a research tool to further understand this pathology.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "To compare the predictive refractive accuracy of intraoperative aberrometry (ORA) to the preoperative Barrett True-K formula in the calculation of intraocular lens (IOL) power in eyes with prior refractive surgery undergoing cataract surgery at the Loma Linda University Eye Institute, Loma Linda, California, USA.",
+        {
+            "entities": [
+                [
+                    15,
+                    81,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "We conducted a retrospective chart review of patients with a history of post-myopic or hyperopic LASIK/PRK who underwent uncomplicated cataract surgery between October 2016 and March 2020.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Pre-operative measurements were performed utilizing the Barrett True-K formula.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Intraoperative aberrometry (ORA) was used for aphakic refraction and IOL power calculation during surgery.",
+        {
+            "entities": [
+                [
+                    0,
+                    32,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Predictive refractive accuracy of the two methods was compared based on the difference between achieved and intended target spherical equivalent.",
+        {
+            "entities": [
+                [
+                    0,
+                    30,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "A total of 97 eyes (69 patients) were included in the study.",
+        {
+            "entities": [
+                [
+                    11,
+                    32,
+                    "SAMPLE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Of these, 81 eyes (83.5%) had previous myopic LASIK/PRK and 16 eyes (16.5%) had previous hyperopic LASIK/PRK.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Median (MedAE)/mean (MAE) absolute prediction errors for preoperative as compared to intraoperative methods were 0.49 D/0.58 D compared to 0.42 D/0.51 D, respectively (P = 0.001/0.002).",
+        {
+            "entities": [
+                [
+                    35,
+                    52,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Over all, ORA led to a statistically significant lower median and mean absolute error compared to the Barrett True-K formula in post-refractive eyes.",
+        {
+            "entities": [
+                [
+                    55,
+                    85,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Percentage of eyes within ± 1.00 D of intended target refraction as predicted by the preoperative versus the intraoperative method was 82.3% and 89.6%, respectively (P = 0.04).",
+        {
+            "entities": [
+                [
+                    0,
+                    34,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Although ORA led to a statistically significant lower median absolute error compared to the Barrett True-K formula, the two methods are clinically comparable in predictive refractive accuracy in patients with prior refractive surgery.",
+        {
+            "entities": [
+                [
+                    54,
+                    75,
+                    "OUTCOME"
+                ],
+                [
+                    172,
+                    191,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "A 6-year-old boy with blurred vision for 18 months was diagnosed as bilateral spherophakia and ectopia lentis.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "He received lensectomy and implantation of an iris-claw intraocular lens in the posterior chamber in both eyes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Good visual results were achieved, and there were no complications during the two-year follow-up.",
+        {
+            "entities": [
+                [
+                    0,
+                    24,
+                    "OUTCOME"
+                ],
+                [
+                    50,
+                    66,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Cataract and corneal blindness continue to be leading causes of reversible blindness in India.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "These can co-exist in a multitude of pathologies such as trauma, healed keratitis (old herpetic scar), chronic degenerative changes such as labrador keratopathy, bullous keratopathy, corneal dystrophies etc.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Phacoemulsification in such eyes is rewarding to the patient in terms of minimal intervention, less risk of complications owing to reduced open sky time (as in case of combined keratoplasty), and better predictable visual outcomes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Approach to such eyes with poor visualisation is highly challenging.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We illustrate a modified surgical technique of chandelier illumination through pars plana for cataract surgery in eyes with corneal opacity of varying grades.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Five patients with dense cataract and small pupils, associated with corneal opacity (leucomatous and macular grade) are described.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Closed chamber phacoemulsification with intraocular lens with or without pupil expanders was performed assisted by 23 or 25 gauge pars plana chandelier illumination introduced in the vitreous cavity through a sclerotomy wound made prior to phacoemulsification in the inferotemporal quadrant.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Chandelier illumination aids in reducing the light scatter that occurs due to corneal opacity.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Ease of visualisation of lens structures and of performing cataract surgery was noticed.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "One case was combined with penetrating keratoplasty with reduced open sky time.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "This assisted technique has advantages such as enhancing visualisation intraoperatively and allowing working in closed chamber.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Its self-retaining nature aids bimanual manipulation.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "No complications were encountered.",
+        {
+            "entities": [
+                [
+                    0,
+                    33,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The video highlights the utility, advantages and practicality of chandelier retroillumination in patients with corneal opacities of varying degree undergoing phacoemulsification.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "https://youtu.be/I3z6QG-_wD8.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Remnant lens epithelial cells (LECs) within the capsular bag (CB) undergo epithelial-to-mesenchymal transition (EMT) and acquire a myofibroblast phenotype, depositing extracellular matrix (ECM) components, leading to posterior capsular opacification (PCO).",
+        {
+            "entities": [
+                [
+                    217,
+                    255,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "This study histopathologically analyzes the LEC-to-myofibroblast transition and de novo ECM component deposition (i.e., smooth muscle actin (SMA) and fibronectin (FN) expression) and determines the intraocular lens (IOL) and patient factors associated with these changes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In total, 190 CBs with IOLs were removed from donor eyes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Digital images were obtained, and PCO was graded using published software (ADOS, Medical Parachute).",
+        {
+            "entities": [
+                [
+                    34,
+                    37,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Automated immunohistochemistry was performed using anti-SMA to detect EMT and anti-FN to document ECM remodeling.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Slides were digitized and analyzed using the Positive Pixel Count v9 algorithm.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Linear regression and Poisson regression were performed (P < 0.05).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "SMA positive expression decreased as the time of IOL implantation increased (P < 0.0001).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Positivity of SMA and FN demonstrated a positive correlation (P = 0.0002).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Controlling for confounding factors in Poisson regression, hydrophobic and hydrophilic materials showed higher FN and SMA expression when compared to silicone material lenses (FN; P = 0.018; P < 0.0001, SMA; P = 0.001; P = 0.003, respectively).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The square optic design had 29% higher SMA positivity compared to the opti-edge design (P = 0.042).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "One-piece haptic lenses had higher SMA expression compared to three-piece haptic (P = 0.042).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "A higher risk of expression of SMA and FN was seen in patients with a history of smoking, hypertension, and glaucoma (P < 0.05).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "This study demonstrated that SMA and FN expression is different according to IOL design and patient factors, thus indicating that LEC changes depend on lens biocompatibility.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Therefore, by analyzing the histopathological composition of PCO by using LECs, further insight into the characteristics of IOLs that are important for biocompatibility can be ascertained.",
+        {
+            "entities": [
+                [
+                    61,
+                    64,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Marfan Syndrome is an autosomal dominant disease with multiple ocular abnormalities including ectopia lentis and a high incidence of rhegmatogenous retinal detachment (RRD).",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    133,
+                    172,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The management of RRD may be challenging in cases of aphakic patients with Marfan.",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "To report on the management of four cases of simultaneous RRD and aphakia with vitrectomy, silicone oil tamponade, and retropupillary iris-claw intraocular lens (IOL) implantation in patients with Marfan that have been operated at the Jules-Gonin Eye Hospital between 2019 and 2020.",
+        {
+            "entities": [
+                [
+                    58,
+                    61,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    134,
+                    166,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Ages at presentation were 20, 30, 32, and 31 years, respectively.",
+        {
+            "entities": [
+                [
+                    26,
+                    50,
+                    "AGE"
+                ]
+            ]
+        }
+    ],
+    [
+        "All patients had a history of extraction of a dislocated lens.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "None of the patients had a previous posterior vitrectomy.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Two patients had records of previous measurements for IOL calculation by optical biometry (IOL Master, Carl Zeiss Meditec AG, Jena, Germany) about 1 year prior to the RRD development.",
+        {
+            "entities": [
+                [
+                    167,
+                    170,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "In two cases, measurements for IOL calculation by optical biometry were based on the contralateral eye.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "All patients underwent 23 G vitrectomy, peripheral iridotomy, and retropupillary iris-claw IOL.",
+        {
+            "entities": [
+                [
+                    81,
+                    94,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "No intraoperative complications were encountered.",
+        {
+            "entities": [
+                [
+                    0,
+                    48,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "All patients had silicone oil tamponade, one of which required heavy silicone oil.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Silicone oil was removed 3 months following primary surgery.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Minimum follow-up was 1 year.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The single surgery anatomic success rate was 100%.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "All patients had visual acuity of at least 0.8 at the last follow-up (1.25, 1.0, 0.8, and 0.8 respectively).",
+        {
+            "entities": [
+                [
+                    17,
+                    30,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "The targeted refractive results were accurately achieved in all four cases postoperatively.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "One patient presented ocular hypertension 2 weeks after surgery due to presumed steroid response and was managed conservatively.",
+        {
+            "entities": [
+                [
+                    22,
+                    41,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "None of the patients had silicone oil migration into the anterior chamber.",
+        {
+            "entities": [
+                [
+                    25,
+                    47,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Retropupillary iris-claw IOL implantation in cases of RRD and aphakia creates a barrier to tamponades from the posterior segment, effectively preventing them from entering the anterior segment of the eye.",
+        {
+            "entities": [
+                [
+                    15,
+                    28,
+                    "DEVICE"
+                ],
+                [
+                    54,
+                    57,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Therefore, the management of aphakia and retinal detachment with simultaneous vitrectomy and a retropupillary iris-claw IOL may be a successful strategy in reducing postoperative complications in patients with Marfan syndrome.",
+        {
+            "entities": [
+                [
+                    41,
+                    59,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    110,
+                    123,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Das Marfan-Syndrom ist eine autosomal-dominante Erkrankung mit multiplen okulären Augenanomalien, einschl.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "To compare the efficacy and safety of core vitrectomy and pars plana vitrectomy for lens exchange in patients with intraocular lens dislocation.",
+        {
+            "entities": [
+                [
+                    115,
+                    143,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "This is a retrospective study conducted at one eye center in Zurich, Switzerland.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We reviewed 124 eyes with dislocated intraocular lens undergoing lens exchange carried out by two surgeons between 03/2016 and 12/2019 (45 months).",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "SAMPLE"
+                ],
+                [
+                    26,
+                    53,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Intraocular pressure (IOP) and best-corrected visual acuity (BCVA) were analyzed preoperatively and at 5 time points up to 12 months after lens exchange.",
+        {
+            "entities": [
+                [
+                    0,
+                    26,
+                    "OUTCOME"
+                ],
+                [
+                    31,
+                    66,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Data on postoperative complications were collected.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "There were 124 eyes with intraocular lens dislocation that were referred for lens exchange.",
+        {
+            "entities": [
+                [
+                    11,
+                    19,
+                    "SAMPLE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Of these eyes, 59 (48%) received core vitrectomy and 65 (52%) received pars plana vitrectomy with lens exchange.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Glaucoma was more frequent in the core vitrectomy group (78%) than in the pars plana vitrectomy group (32%; p < 0.001).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In the core vitrectomy group, 19 (32%) eyes presented with visual impairment, 17 (29%) eyes presented with high IOP alone, and 23 (39%) eyes presented with both at the same time prior to surgery.",
+        {
+            "entities": [
+                [
+                    59,
+                    76,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    107,
+                    115,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mean preoperative IOP in the core vitrectomy group decreased from 22.4 ± 9.2 mmHg to 14.7 ± 3.1 mmHg 12 months after surgery (p < 0.001).",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mean BCVA changed from 0.40 ± 0.41 logMAR preoperatively to 0.32 ± 0.37 logMAR at 12 months postoperatively (p = 0.598) in the core vitrectomy group.",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "In the pars plana vitrectomy group, 44 (68%) eyes presented with a change in vision, 7 (11%) eyes presented with high IOP alone, and 14 (22%) eyes presented with pressure elevation and visual impairment at the visit prior to surgery.",
+        {
+            "entities": [
+                [
+                    67,
+                    83,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    113,
+                    121,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    162,
+                    180,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    185,
+                    202,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mean preoperative IOP in the pars plana vitrectomy group decreased from 20.9 ± 8.3 mmHg to 15.1 ± 3.5 mmHg at 12 months after lens exchange (p < 0.001).",
+        {
+            "entities": [
+                [
+                    5,
+                    21,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mean BCVA in the pars plana vitrectomy group was 0.57 ± 0.62 logMAR preoperatively and 0.22 ± 0.35 logMAR 12 months postoperatively (p < 0.001).",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Postoperative pressure decompensation occurred more frequently in the core vitrectomy group (20%) than in the pars plana vitrectomy group (6%; p = 0.018).",
+        {
+            "entities": [
+                [
+                    0,
+                    37,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "There was no statistically significant difference for postoperative cystoid macular edema (p = 0.055), anisometropia (p = 0.986), and high astigmatism (p = 0.362).",
+        {
+            "entities": [
+                [
+                    68,
+                    89,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    103,
+                    116,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    134,
+                    150,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Core vitrectomy and pars plana vitrectomy with lens exchange are equally efficient and safe in the management of intraocular lens dislocation.",
+        {
+            "entities": [
+                [
+                    113,
+                    141,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Most people undergo cataract surgery in both eyes on separate days, referred to as delayed sequential bilateral cataract surgery (DSBCS).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "An alternative procedure involves operating on both eyes on the same day, but as two separate procedures, known as immediate sequential bilateral cataract surgery (ISBCS).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Potential advantages of ISBCS include fewer hospital visits for the patient, faster visual recovery, and lower healthcare costs.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Nevertheless, concerns exist about possible bilateral, postoperative, sight-threatening adverse effects with ISBCS.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        " Therefore, there is a clear need for evaluating evidence regarding the safety, effectiveness, and cost-effectiveness of ISBCS versus DSBCS.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The secondary objective was to assess visual and patient-reported outcomes of ISBCS compared to DSBCS in people with bilateral age-related cataracts.",
+        {
+            "entities": [
+                [
+                    38,
+                    74,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register; 2021, Issue 5); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov; the WHO ICTRP; and DARE and NHS EED on the CRD Database on 11 May 2021.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "There were no language restrictions.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We limited the searches to a date range of 2007 onwards.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We included randomised controlled trials (RCTs) to assess complications, refractive outcomes, best-corrected distance visual acuity (BCDVA) and patient-reported outcome measures (PROMs) with ISBCS compared to DSBCS.",
+        {
+            "entities": [
+                [
+                    73,
+                    92,
+                    "OUTCOME"
+                ],
+                [
+                    94,
+                    139,
+                    "OUTCOME"
+                ],
+                [
+                    144,
+                    185,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "We included non-randomised (NRSs), prospective, and retrospective cohort studies comparing ISBCS and DSBCS for safety assessment, because of the rare incidence of important adverse events.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "To assess cost-effectiveness of ISBCS compared to DSBCS, we included both full and partial economic evaluations, and both trial-based and model-based economic evaluations.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We used standard Cochrane methodological procedures and assessed risk of bias for NRSs using the ROBINS-I tool.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "For cost-evaluations, we used the CHEC-list, the CHEERS-checklist, and the NICE-checklist to investigate risk of bias.",
+        {
+            "entities": [
+                [
+                    4,
+                    20,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "We assessed the certainty of evidence with the GRADE tool.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We reported results for economic evaluations narratively.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "We included 14 studies in the review; two RCTs, seven NRSs, and six economic evaluations (one study was both an NRS and economic evaluation).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The studies reported on 276,260 participants (7384 for ISBCS and 268,876 for DSBCS) and were conducted in Canada, the Czech Republic, Finland, Iran, (South) Korea, Spain (Canary Islands), Sweden, the UK, and the USA.",
+        {
+            "entities": [
+                [
+                    24,
+                    44,
+                    "SAMPLE"
+                ]
+            ]
+        }
+    ],
+    [
+        " Overall, we considered the included RCTs to be at 'high to some concerns' risk of bias for complications, 'some concerns' risk of bias for refractive outcomes and visual acuity, and 'high' risk of bias for PROMs.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The overall risk of bias for NRSs was graded 'serious' regarding complications and 'serious to critical' regarding refractive outcomes.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "  With regard to endophthalmitis, we found that relative effects were estimated imprecisely and with low certainty, so that relative estimates were not reliable.",
+        {
+            "entities": [
+                [
+                    17,
+                    32,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nonetheless, we found a very low risk of endophthalmitis in both ISBCS (1/14,076 participants) and DSBCS (55/556,246 participants) groups.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Based on descriptive evidence and partially weak statistical evidence we found no evidence of an increased risk of endophthalmitis with ISBCS.",
+        {
+            "entities": [
+                [
+                    115,
+                    130,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        " Regarding refractive outcomes, we found moderate-certainty (RCTs) and low-certainty (NRSs) evidence there was no difference in the percentage of eyes that did not achieve refraction within 1.0 dioptre of target one to three months after surgery (RCTs: risk ratio (RR) 0.84, 95% confidence interval (CI) 0.57 to 1.26; NRSs: RR 1.02, 95% CI 0.60 to 1.75).",
+        {
+            "entities": [
+                [
+                    11,
+                    30,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Similarly, postoperative complications did not differ between groups (RCTs: RR 1.33, 95% CI 0.52 to 3.40; NRSs: 1.04, 95% CI 0.47 to 2.29), although the certainty of this evidence was very low for both RCTs and NRSs.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Furthermore, we found low-certainty (RCTs) to very low-certainty (NRSs) evidence that total costs per participant were lower for ISBCS compared to DSBCS, although results of individual studies could not be pooled.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Only one study reported on cost-effectiveness.",
+        {
+            "entities": [
+                [
+                    27,
+                    45,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "This study found that ISBCS is cost-effective compared to DSBCS, but did not measure quality-adjusted life years using preferred methods and calculated costs erroneously.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Finally, regarding secondary outcomes, we found limited evidence on BCDVA (data of two RCTs could not be pooled, although both studies individually found no difference between groups (very low-certainty evidence)).",
+        {
+            "entities": [
+                [
+                    68,
+                    75,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Regarding PROMs, we found moderate-certainty evidence (RCTs only) that there was no difference between groups one to three months after surgery (standardised mean difference -0.08, 95% CI -0.19 to 0.03).",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Current evidence supports there are probably no clinically important differences in outcomes between ISBCS and DSBCS, but with lower costs for ISBCS.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "However, the amount of evidence is limited, and the certainty of the evidence was graded moderate to very low.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In addition, there is a need for well-designed cost-effectiveness studies.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Paediatric traumatic cataract is one of leading treatable cause of childhood blindness.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The purpose of this study is to analyse number of avoidable blindness in children and to access final visual outcomes, causative factors, strategies for the prevention and management.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "One hundred and twenty patients of ocular traumatic cataract age between 2 months to 14 years were treated in Department of Paediatric Ophthalmology from April 2019 till April 2020wasprospectivelyreviewed.",
+        {
+            "entities": [
+                [
+                    0,
+                    31,
+                    "SAMPLE"
+                ],
+                [
+                    73,
+                    93,
+                    "AGE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Data included age, gender, time of presentation, type of injury, anterior segment with fundus examination, time and type of surgery, visual outcome at presentation and final visual outcome.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Visual acuity was assessed by fixation and following, Snellen's chart according to patient's age.",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Some patients underwent for lens aspiration and rest underwent for lens aspiration, posterior capsulotomy and anterior vitrectomy followed by intraocular lens implantation under general anaesthesia.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Patients who lost follow ups for two months were not included in study.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Analysis of data was done using SPSS for window version 24.0.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "One hundred and twenty eyes operated for traumatic cataract among which 64 (53.34%) patients were males and 56 (46.66%) were females.",
+        {
+            "entities": [
+                [
+                    0,
+                    27,
+                    "SAMPLE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The average age of patients was 7.8 years with traumatic cataract.",
+        {
+            "entities": [
+                [
+                    32,
+                    41,
+                    "AGE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Initial Uncorrected visual out come at the time of presentation ranged from 6/60 to light perception.",
+        {
+            "entities": [
+                [
+                    8,
+                    35,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "15 %of children with traumatic cataract had post-operative final visual outcome of better than 6/18.",
+        {
+            "entities": [
+                [
+                    44,
+                    79,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The commonest cause of ocular injuries in our pediatric ophthalmology department was domestic, mostly in 5-9 years of age with greater number in males.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In traumatic cataract extraction final visual outcome depends on initial visual outcome, source and type of injury, duration of presentation, duration of surgery and complications.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The best corrected visual acuity (BCVA), intraocular pressure(IOP), corneal endothelium cell density(ECD), pupil diameter(PD) of before and after surgery were compared.",
+        {
+            "entities": [
+                [
+                    4,
+                    39,
+                    "OUTCOME"
+                ],
+                [
+                    41,
+                    66,
+                    "OUTCOME"
+                ],
+                [
+                    68,
+                    105,
+                    "OUTCOME"
+                ],
+                [
+                    107,
+                    125,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "One same doctor finished all cataract surgeries successfully.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The eyes' condition before surgery and at 6 months after surgery were compared.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "There were no significant statistical differences for the conditions of the eyes before surgery among six groups.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The ECDs were better at 6 months postoperatively in group III and V, median values: 2114/mm",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "All 6 methods used in this study were effective for the mechanical dilatation of small pupils and didn't affect the postoperative visual acuity and intraocular pressure in microcoria cataract phacoemulsification.",
+        {
+            "entities": [
+                [
+                    116,
+                    143,
+                    "OUTCOME"
+                ],
+                [
+                    148,
+                    168,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Iris-retractor hooks and the Malyugin Ring can reduce intraoperative corneal endothelium cell loss.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Postoperative PD is larger when the iris was cut open radially.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "lntralenticular abscess is a very rare entity that has been described after penetrating trauma, intraocular surgery and metastatic spread.",
+        {
+            "entities": [
+                [
+                    0,
+                    23,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "We report a case of intralenticular abscess treated surgically by phacoemulsification with good postoperative results.",
+        {
+            "entities": [
+                [
+                    20,
+                    43,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "A 32-year-old patient presented with right eye redness and defective vision of 4 days following thorn injury.",
+        {
+            "entities": [
+                [
+                    2,
+                    13,
+                    "AGE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The visual acuity was limited to counting fingers.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Vitreous and fundus were normal.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Initially, we prescribed topic and systemic antimicrobial treatment.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Lens extraction was performed 1 week later by phacoemulsification with primary intraocular lens implantation.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The immediate postoperative recovery was uneventful.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The visual acuity at last follow-up was 9/10.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "In the current case, lens extraction associated with systemic and local antimicrobial treatment allowed infection control and good visual outcome.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "To evaluate peripheral refraction and contrast detection sensitivity in pseudophakic patients implanted with a new type of inverted meniscus intraocular lens (IOL) (Art25; Voptica SL) that was designed to provide better peripheral optics.",
+        {
+            "entities": [
+                [
+                    12,
+                    68,
+                    "OUTCOME"
+                ],
+                [
+                    123,
+                    188,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "One month after cataract surgery, in 87 eyes implanted with the Art25 IOL, peripheral contrast detection sensitivity was measured psychophysically at 40° visual angle, both horizontally and vertically, and compared with a control group of 51 eyes implanted with standard biconvex IOLs.",
+        {
+            "entities": [
+                [
+                    37,
+                    44,
+                    "SAMPLE"
+                ],
+                [
+                    64,
+                    73,
+                    "DEVICE"
+                ],
+                [
+                    75,
+                    116,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Thirty-one eyes with the Art25 IOL and 28 eyes from the control group were randomly selected to also measure peripheral refraction using a scanning Hartmann-Shack wavefront sensor along 80° in the horizontal meridian.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Most patients achieved emmetropia and good visual acuity, and no significant adverse events were observed after cataract surgery with Art25 IOLs.",
+        {
+            "entities": [
+                [
+                    62,
+                    105,
+                    "ADVERSE_EVENT"
+                ],
+                [
+                    134,
+                    144,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Peripheral contrast detection sensitivity was significantly better (",
+        {
+            "entities": [
+                [
+                    0,
+                    45,
+                    "OUTCOME"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patients implanted with a new inverted meniscus IOL present a reduced amount of peripheral defocus and astigmatism compared to patients implanted with standard biconvex IOLs.",
+        {
+            "entities": [
+                [
+                    30,
+                    59,
+                    "DEVICE"
+                ],
+                [
+                    151,
+                    174,
+                    "DEVICE"
+                ]
+            ]
+        }
+    ],
+    [
+        "This improvement in optical quality leads to better contrast detection sensitivity measured at 40° of eccentricity.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Due to development of surgical techniques and intraocular lens (IOL) implants, vision can often be restored in cataracts patients.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "However, posterior capsular opacification (PCO) has become the most common and challenging complication in cataracts surgery.",
+        {
+            "entities": [
+                [
+                    9,
+                    47,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "While various approaches such as surface modification and drug prophylaxis have been investigated to prevent PCO development, there is no standard treatment that is sufficiently safe and effective to meet clinical demands.",
+        {
+            "entities": [
+                [
+                    109,
+                    112,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "Near-infrared (NIR) light-triggered photothermal therapy is an attractive noninvasive treatment for PCO prophylaxis.",
+        {
+            "entities": [
+                [
+                    100,
+                    103,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "We fabricated a new type of IOL with excellent biocompatibility, stability, and photothermal conversion property.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Polyethyleneimine (PEI) and graphene oxide (GO) were layer-by-layer assembled on model polymethylmethacrylate and IOL substrates, and the thickness, surface roughness, and wettability of the substrates with different numbers of bilayers were evaluated.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "After the reduction of GO to reduced GO (rGO), a rGO/PEI multilayer thin film with good stability and photothermal conversion capability was obtained.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "The rGO/PEI multilayer coating was able to induce apoptosis in lens epithelium cells under 808-nm NIR laser irradiation in vitro.",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Finally, rGO@IOL was implanted into rabbit eyes, and the biocompatibility and ability to prevent PCO were evaluated for 5 weeks.",
+        {
+            "entities": [
+                [
+                    97,
+                    100,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The rGO@IOL implant exhibited excellent PCO prevention ability with the assistance of NIR irradiation and did not induce obvious pathological effects in surrounding healthy tissues.",
+        {
+            "entities": [
+                [
+                    40,
+                    43,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The rGO@IOL implant with good biocompatibility, good physicochemical stability, and excellent photothermal conversion property shows promise for clinical application in PCO prophylaxis.",
+        {
+            "entities": [
+                [
+                    169,
+                    172,
+                    "ADVERSE_EVENT"
+                ]
+            ]
+        }
+    ]
+]

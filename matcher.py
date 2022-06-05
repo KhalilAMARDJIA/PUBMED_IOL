@@ -26,7 +26,6 @@ abstracts_w_id = []  # create a tupple of (abstract, id) to trace
 for abstract,pubmed_id in zip(df.abstract,df.pubmed_id): 
     abstracts_w_id.append((abstract,pubmed_id))
 
-
 tags = []
 scores = []
 matched_ids = []
