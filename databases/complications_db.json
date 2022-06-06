@@ -21,11 +21,7 @@
                 "Lens Migration",
                 "Lens Displacement"
             ],
-            "Cumulative: Intraocular Pressure Elevation": [
-                "Intraocular Pressure Elevation",
-                "IOP Elevation",
-                "Intraocular Pressure increase",
-                "IOP increase",
+            "Cumulative: Pupillary block": [
                 "Pupillary block"
             ],
             "Cumulative: Retinal detachment": [
@@ -33,7 +29,23 @@
                 "Detachment of the retina"
             ],
             "Persistent: Corneal stroma oedema": [
-                "Corneal stroma oedema"
+                "Corneal stroma oedema",
+                "Corneal stroma edema"
+            ],
+            "Persistent: Cystoid macular oedema": [
+                "Cystoid macular oedema",
+                "Cystoid macular edema"
+            ],
+            "Persistent: Iritis": [
+                "Iritis",
+                "Inflammation of the iris",
+                "Iris inflammation"
+            ],
+            "Persistent: Intraocular Pressure Elevation": [
+                "Intraocular Pressure Elevation",
+                "IOP Elevation",
+                "Intraocular Pressure increase",
+                "IOP increase"
             ]
         },
         "Posterior Capsule Opacification (PCO)": {
