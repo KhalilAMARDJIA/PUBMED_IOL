@@ -30,16 +30,21 @@
             ],
             "Persistent: Corneal stroma oedema": [
                 "Corneal stroma oedema",
-                "Corneal stroma edema"
+                "Corneal stroma edema",
+                "Corneal edema",
+                "Corneal oedema",
+                "stroma oedema",
+                "stroma edema"
             ],
             "Persistent: Cystoid macular oedema": [
                 "Cystoid macular oedema",
                 "Cystoid macular edema"
             ],
-            "Persistent: Iritis": [
+            "Persistent: Iritis/Iridocyclitis": [
                 "Iritis",
                 "Inflammation of the iris",
-                "Iris inflammation"
+                "Iris inflammation",
+                "Iridocyclitis"
             ],
             "Persistent: Intraocular Pressure Elevation": [
                 "Intraocular Pressure Elevation",
@@ -58,11 +63,15 @@
         "Uveitis-Glaucoma-Hyphema Syndrome": {
             "Uveitis-Glaucoma-Hyphema Syndrome": [
                 "Uveitis-glaucoma-hyphema",
+                "Uveitis glaucoma hyphema",
                 " UGH ",
                 "(UGH)"
             ]
         },
         "Refractive Surprises": {
+            "Refractive surprise": [
+                "Refractive surprise"
+            ],
             "Wrong Lens": [
                 "Wrong Lens",
                 "Incorrect labelling",
@@ -81,14 +90,36 @@
             ]
         },
         "Optical Aberrations": {
-            "Optical Aberrations": [
-                "Optical Aberrations",
-                "scotomas",
-                "negative dysphotopsias",
-                "halo",
-                "starbursts",
-                "glare",
-                "positive dysphotopsias"
+            "Negative dysphotopsia": [
+                "Negative dysphotopsia"
+            ],
+            "Positive dysphotopsia": [
+                "positive dysphotopsia"
+            ],
+            "Glistening": [
+                "Glistening"
+            ],
+            "Halo": [
+                "halo"
+            ],
+            "Starburst": [
+                "starburst"
+            ],
+            "Glare": [
+                "glare"
+            ],
+            "Vision blurred": [
+                "Vision blurred",
+                "blurred vision"
+            ],
+            "Optical Aberration": [
+                "Optical Aberration"
+            ],
+            "scotoma": [
+                "scotoma"
+            ],
+            "Photic phenomena": [
+                "Photic phenomena"
             ]
         },
         "Posterior Capsular Rupture": {
@@ -96,6 +127,9 @@
                 "Posterior Capsular Rupture",
                 " PCR ",
                 "(PCR)"
+            ],
+            "Anterior capsular contraction": [
+                "Anterior capsular contraction"
             ]
         },
         "Vitreous/Suprachoroidal Hemorrhage": {
@@ -111,11 +145,6 @@
                 "Toxic Anterior Segment Syndrome",
                 " TASS ",
                 "(TASS)"
-            ]
-        },
-        "Glistenings": {
-            "Glistenings": [
-                "Glistenings"
             ]
         },
         "Vitreous Detachment": {
@@ -135,6 +164,13 @@
             ],
             "Headache": [
                 "Headache"
+            ],
+            "Intraocular lens opacification": [
+                "Intraocular lens opacification",
+                "IOL opacification"
+            ],
+            "Anterior chamber flare": [
+                "Anterior chamber flare"
             ]
         }
     }
