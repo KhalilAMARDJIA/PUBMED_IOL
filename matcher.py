@@ -1,6 +1,4 @@
-from numpy import indices
 import pandas as pd
-from pyparsing import col
 import spacy
 from spacy.matcher import Matcher
 import json
@@ -26,11 +24,13 @@ abstracts_w_id = []  # create a tupple of (abstract, id) to trace
 for abstract,pubmed_id in zip(df.abstract,df.pubmed_id): 
     abstracts_w_id.append((abstract,pubmed_id))
 
-tags = []
-scores = []
-matched_ids = []
-starts = []
-ends = []
+df_match = {
+    "pubmed_id": [],
+    "score": [],
+    "tag": [],
+    "start": [],
+    "end": []}
+
 
 for doc, abstract_id in list(nlp.pipe(abstracts_w_id, as_tuples=True)):
     matches = matcher(doc)
@@ -40,19 +40,14 @@ for doc, abstract_id in list(nlp.pipe(abstracts_w_id, as_tuples=True)):
 
             string_id = nlp.vocab.strings[pubmed_id]
             span = doc[start:end]  # The matched span
-            tags.append(string_id)
-            scores.append(span.text.replace('\n', ''))
-            matched_ids.append(abstract_id)
-            starts.append(start)
-            ends.append(end)
+            df_match["tag"].append(string_id)
+            df_match["score"].append(span.text.replace('\n', ''))
+            df_match["pubmed_id"].append(abstract_id)
+            df_match["start"].append(start)
+            df_match["end"].append(end)
 
 
-df_match = pd.DataFrame({
-    'pubmed_id': matched_ids,
-    'score': scores,
-    'tag': tags,
-    'starts': starts,
-    "ends": ends})
+df_match = pd.DataFrame(df_match)
 
 df_match = df_match.drop_duplicates()
 

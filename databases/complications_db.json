@@ -1,33 +1,36 @@
 {
     "complications": {
-        "Posterior Chamber IOL AE": {
-            "Cystoid Macular Edema": [
+        "Adverse event per ISO 11979-7:2018 (Table E.2)": {
+            "Cumulative: Cystoid Macular Edema": [
                 "Cystoid Macular Edema",
-                "Cystoid Macular Oedema"
+                "Cystoid Macular Oedema",
+                "(CME)",
+                " CME "
             ],
-            "Hypopyon":[
+            "Cumulative: Hypopyon":[
                 "Hypopyon",
                 "Pus in anterior chamber"
             ],
-            "Endophthalmitis": [
+            "Cumulative: Endophthalmitis": [
                 "Endophthalmitis",
                 "Endophthalmitides"
             ],
-            "Lens Decentrations and Dislocations": [
-                "Lens Decentrations",
-                "Lens Dislocations",
+            "Cumulative: Lens dislocated from posterior chamber": [
+                "Lens Decentration",
+                "Lens Dislocation",
                 "Lens Migration",
                 "Lens Displacement"
             ],
-            "Retinal detachment": [
-                "Retinal detachment",
-                "Detachment of the retina"
-            ],
-            "Intraocular Pressure Elevation": [
+            "Cumulative: Intraocular Pressure Elevation": [
                 "Intraocular Pressure Elevation",
                 "IOP Elevation",
                 "Intraocular Pressure increase",
-                "IOP increase"
+                "IOP increase",
+                "Pupillary block"
+            ],
+            "Cumulative: Retinal detachment": [
+                "Retinal detachment",
+                "Detachment of the retina"
             ]
         },
         "Posterior Capsule Opacification (PCO)": {
