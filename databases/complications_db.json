@@ -7,7 +7,7 @@
                 "(CME)",
                 " CME "
             ],
-            "Cumulative: Hypopyon":[
+            "Cumulative: Hypopyon": [
                 "Hypopyon",
                 "Pus in anterior chamber"
             ],
@@ -31,6 +31,9 @@
             "Cumulative: Retinal detachment": [
                 "Retinal detachment",
                 "Detachment of the retina"
+            ],
+            "Persistent: Corneal stroma oedema": [
+                "Corneal stroma oedema"
             ]
         },
         "Posterior Capsule Opacification (PCO)": {
@@ -39,17 +42,15 @@
                 " PCO ",
                 "(PCO)"
             ]
-
         },
-        "Uveitis-Glaucoma-Hyphema Syndrome":{
+        "Uveitis-Glaucoma-Hyphema Syndrome": {
             "Uveitis-Glaucoma-Hyphema Syndrome": [
                 "Uveitis-glaucoma-hyphema",
                 " UGH ",
                 "(UGH)"
             ]
         },
-
-        "Refractive Surprises":{
+        "Refractive Surprises": {
             "Wrong Lens": [
                 "Wrong Lens",
                 "Incorrect labelling",
@@ -60,15 +61,14 @@
             ]
         },
         "Descemet Membrane Tears or Detachment": {
-            "Descemet Membrane Tears or Detachment":[
+            "Descemet Membrane Tears or Detachment": [
                 "Descemet Membrane Tears",
                 "Descemet Membrane Detachment",
                 "Haab's striae",
                 "Haab striae"
             ]
         },
-        "Optical Aberrations":{
-
+        "Optical Aberrations": {
             "Optical Aberrations": [
                 "Optical Aberrations",
                 "scotomas",
@@ -107,7 +107,7 @@
             ]
         },
         "Vitreous Detachment": {
-            "Vitreous Detachment":[
+            "Vitreous Detachment": [
                 "Vitreous Detachment",
                 " PVD ",
                 "(PVD)"
