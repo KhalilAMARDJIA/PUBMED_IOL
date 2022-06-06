@@ -132,6 +132,9 @@
             "Allergic reaction": [
                 "Allergy",
                 "Allergic"
+            ],
+            "Headache": [
+                "Headache"
             ]
         }
     }
