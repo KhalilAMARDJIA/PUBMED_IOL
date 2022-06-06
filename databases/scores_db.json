@@ -165,6 +165,28 @@
                 " VSQ ",
                 "(VSQ)"
             ]
+        },
+        "Other outcomes":{
+            "Pupil size": [
+                "Pupil size"
+            ],
+        "Accommodative amplitude": [
+            "Accommodative amplitude"
+        ],
+        "Subjective refraction": [
+            "Subjective refraction"
+        ],
+        "Lens stability": [
+            "Lens stability",
+            "Lens Tilt",
+            "Lens decentration"
+        ],
+        "Anterior chamber depth" : [
+            "Anterior chamber depth" 
+        ],
+        "Gonioscopy" : [
+            "Gonioscopy"
+        ]
         }
     }
 }
