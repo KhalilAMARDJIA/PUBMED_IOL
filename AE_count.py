@@ -56,16 +56,6 @@ complication_matrix_plot = complication_matrix_plot.sort_values([
                                                                 'main_cat', 'n'])
 complication_matrix_plot = complication_matrix_plot[complication_matrix_plot.n > 0]
 
-fig = px.bar(
-    data_frame=complication_matrix_plot,
-    template='simple_white',
-    x='n',
-    y='complication',
-    color='main_cat',
-    color_discrete_sequence=px.colors.diverging.curl,
-    title= f'PubMed data extracted from {len(pubmed_raw_data)} abstracts'
-)
-
 fig = px.bar(data_frame=complication_matrix_plot,
              template='simple_white',
              x='n',
