@@ -66,6 +66,16 @@ fig = px.bar(
     title= f'PubMed data extracted from {len(pubmed_raw_data)} abstracts'
 )
 
+fig = px.bar(data_frame=complication_matrix_plot,
+             template='simple_white',
+             x='n',
+             y='complication',
+             color='main_cat',
+             labels={'n':'Occurrences'},
+             color_discrete_sequence=px.colors.diverging.curl,
+             text='n',
+             title= f'PubMed data extracted from {complication_matrix_plot["n"].sum()} Abstracts, {len(pubmed_raw_data)-complication_matrix_plot["n"].sum()} Abstracts were excluded for missing data')
+
 
 fig.update_traces(marker_line_color='black', marker_line_width=1)
 fig.update_layout(font_family="JetBrainsMono NF")
