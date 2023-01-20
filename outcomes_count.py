@@ -51,15 +51,16 @@ score_matrix_plot = score_matrix_plot.rename(columns={'index': 'score', 0:'n'})
 score_matrix_plot = score_matrix_plot.sort_values(['Clinical outcomes','n'])
 score_matrix_plot = score_matrix_plot[score_matrix_plot.n >0]
 
-fig = px.bar(
-    template = 'simple_white',
-    x = 'n', 
-    y = 'score',
-    color=  'Clinical outcomes',
-    color_discrete_sequence=px.colors.diverging.curl,
-    data_frame=score_matrix_plot,
-    title=f'PubMed data extracted from {len(pubmed_raw_data)} abstracts'
-    )
+
+fig = px.bar(data_frame=score_matrix_plot,
+             template='simple_white',
+             x='n',
+             y='score',
+             color='Clinical outcomes',
+             labels={'n':'Occurrences'},
+             color_discrete_sequence=px.colors.diverging.curl,
+             text='n',
+             title= f'PubMed data extracted from {score_matrix_plot["n"].sum()} Abstracts, {len(pubmed_raw_data)-score_matrix_plot["n"].sum()} Abstracts were excluded for missing data')
 
 fig.update_traces(marker_line_color='black',marker_line_width=1)
 fig.update_layout(font_family="JetBrainsMono NF")
